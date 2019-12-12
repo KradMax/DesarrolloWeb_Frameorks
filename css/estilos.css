@@ -1,0 +1,17 @@
+.social{
+  float: bottom left;
+}
+.social img{
+  height: 50px;
+  width: 50px;
+}
+header{
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+#post{
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
