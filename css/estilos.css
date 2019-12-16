@@ -11,7 +11,29 @@ header{
 }
 #post{
   margin-top: 10px;
-  margin-right: 10px;
-  margin-left: 10px;
+  margin-right: 5px;
+  margin-left: 5px;
   margin-bottom: 10px;
+}
+.post1{
+  margin-top: 10px;
+}
+.img-post img{
+  width: 250px;
+  height: 150px;
+
+}
+.titulo-post{
+  font-size: 18px;
+  margin-left: 5px;
+}
+.post1 p{
+  margin-left: 5px;
+}
+#image2{
+  margin-left: 10px;
+}
+#search{
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
